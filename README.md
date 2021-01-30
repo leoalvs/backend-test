@@ -31,7 +31,7 @@ Por padrão, o servidor vai rodar na rota `http://0.0.0.0:8000/`.
 
 Para testar o projeto, execute o comando `python -m pytest`, a dependência pytest já vem instlada por padrão.
 
-
+![alt text](https://github.com/leoalvs/backend-test/blob/main/tests.png?raw=true)
 
 ## Plano de melhorias
 
