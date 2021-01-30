@@ -22,6 +22,8 @@ Assim que as dependências estiverem instaladas na máquina, rode o comando `pyt
 
 Por padrão, o servidor vai rodar na rota `http://0.0.0.0:8000/`.
 
+Rotas e requisições estão no arquivo `postman.json`.
+
 ## Documentação 
 
 - Swagger: `http://0.0.0.0:8000/docs`
@@ -33,11 +35,22 @@ Para testar o projeto, execute o comando `python -m pytest`, a dependência pyte
 
 ![alt text](https://github.com/leoalvs/backend-test/blob/main/tests.png?raw=true)
 
+## Maiores desafios
+
+- Gerenciamento de tempo.
+- Estudo dos componentes nunca utilizados.
+- Fork do buslane.
+
 ## Plano de melhorias
 
-Criar filtros dinamicos no repositório
-Incluir IoC para aumentar desacoplamento do código
-Padronizar retorno de erros da api
-Adicionar testes de falha
-Terminar de dockerizar
-Adicionar logs
+- Criar filtros dinamicos no repositório.
+- Incluir IoC para aumentar desacoplamento do código.
+- Criar modelo de retorno de erros da api.
+- Aumentar cobertura de testes e adicionar testes de falha.
+- Terminar de dockerizar.
+- Adicionar logs.
+
+## Links úteis
+
+- [FastApi](https://fastapi.tiangolo.com/) - Documentação oficial
+- [Benchmark](https://ahmed-nafies.medium.com/why-did-we-choose-fast-api-over-flask-and-django-for-our-restful-micro-services-77589534c036) - Comparação do FastApi com outros frameworks
