@@ -1,0 +1,33 @@
+
+|python:S117"_Rename this local variable "ReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ŞÍæûÿÿÿÿ
+Špython:S117–"mRename this local variable "GenericEmbeddedDocumentField" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿­«˜úÿÿÿÿ
+rpython:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÄÁº¼ıÿÿÿÿ
+qpython:S117s"ZRename this local variable "FileField" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â×ıÈ
+Lpython:S1066x"/Merge this if statement with the enclosing one.(ªïŠüÿÿÿÿ
+ƒpython:S117•"fRename this local variable "EmbeddedDocumentField" to match the regular expression ^[_a-z][a-z0-9_]*$.(çİÀ¡ÿÿÿÿÿ
+mpython:S3776›"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(öÚ±
+lpython:S3776î"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ò§Ê3
+~python:S117‘"fRename this local variable "GenericReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş£ûÿ
+ypython:S117é"aRename this local variable "EmbeddedDocument" to match the regular expression ^[_a-z][a-z0-9_]*$.(à‡ê
+lpython:S3776;"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÊŞş
+|python:S117Î"_Rename this local variable "ReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ŞÍæûÿÿÿÿ
+rpython:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(£Ù…áıÿÿÿÿ
+mpython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(â©áæ
+‡python:S117ã"jRename this local variable "EmbeddedDocumentListField" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ŞÙ†úÿÿÿÿ
+Mpython:S1066‰"/Merge this if statement with the enclosing one.(Å¼²şÿÿÿÿ
+upython:S117 "]Rename this local variable "DynamicField" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Û£€
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(Í¸¸îşÿÿÿÿ
+mpython:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Ü®ò†
+~python:S117Ï"fRename this local variable "GenericReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş£ûÿ
+lpython:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(öØd
+vpython:S117¸"YRename this local variable "Document" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÅ¾„úÿÿÿÿ
+|python:S117ê"_Rename this local variable "ReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ŞÍæûÿÿÿÿ
+~python:S117ë"fRename this local variable "GenericReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş£ûÿ
+mpython:S3776Œ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ĞÉ¡’
+upython:S117¥"]Rename this local variable "DynamicField" to match the regular expression ^[_a-z][a-z0-9_]*$.(·Û£€
+rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ûáà›üÿÿÿÿ
+spython:S1192Ê"ZDefine a constant instead of duplicating this literal 'Cannot resolve field "%s"' 3 times.(çÈÜ
+mpython:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ŠÃşí
+rpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(¯£¥—üÿÿÿÿ
+}python:S117ì"`Rename this local variable "SortedListField" to match the regular expression ^[_a-z][a-z0-9_]*$.(èáì‰ÿÿÿÿÿ
+rpython:S117¤"ZRename this local variable "ListField" to match the regular expression ^[_a-z][a-z0-9_]*$.(µÈí

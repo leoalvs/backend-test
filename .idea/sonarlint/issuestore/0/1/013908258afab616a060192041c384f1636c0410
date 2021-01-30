@@ -1,0 +1,16 @@
+
+fpython:S107„"IMethod "patch" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+hpython:S107ў"KMethod "options" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+Mpython:S1066•"/Merge this if statement with the enclosing one.(­Мљіъяяяя
+npython:S107М"QMethod "add_api_route" has 24 parameters, which is greater than the 7 authorized.( Раюьяяяя
+hpython:S107!"LMethod "__init__" has 28 parameters, which is greater than the 7 authorized.( Раюьяяяя
+rpython:S3776Ќ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(іГњГэяяяя
+dpython:S107Ю"GMethod "get" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+dpython:S107Џ"GMethod "put" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+gpython:S107с"JMethod "delete" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+opython:S107Е"RMethod "include_router" has 11 parameters, which is greater than the 7 authorized.( Раюьяяяя
+fpython:S107µ"IMethod "trace" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+spython:S1192Ц"UDefine a constant instead of duplicating this literal "Successful Response" 10 times.( ШлІъяяяя
+jpython:S107Ѓ"MMethod "api_route" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+epython:S107А"HMethod "post" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя
+epython:S107У"HMethod "head" has 23 parameters, which is greater than the 7 authorized.( Раюьяяяя

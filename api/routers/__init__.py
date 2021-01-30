@@ -1,0 +1,10 @@
+from buslane.commands import CommandBus
+
+from product_core.application.command_handlers.create_product_command_handler import CreateProductCommandHandler
+from product_core.application.command_handlers.delete_product_command_handler import DeleteProductCommandHandler
+from product_core.application.command_handlers.update_product_command_handler import UpdateProductCommandHandler
+
+command_bus = CommandBus()
+command_bus.register(handler=CreateProductCommandHandler())
+command_bus.register(handler=UpdateProductCommandHandler())
+command_bus.register(handler=DeleteProductCommandHandler())

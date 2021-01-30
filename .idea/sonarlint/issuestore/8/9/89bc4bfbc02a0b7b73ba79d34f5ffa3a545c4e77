@@ -1,0 +1,21 @@
+
+€python:S1192‘"bDefine a constant instead of duplicating this literal "dependant.call must be a function" 3 times.(Õ‰Éúÿÿÿÿ
+spython:S1192"UDefine a constant instead of duplicating this literal "Successful Response" 11 times.( Øë²úÿÿÿÿ
+tpython:S107`"XFunction "serialize_response" has 10 parameters, which is greater than the 7 authorized.(Å´¡Òøÿÿÿÿ
+qpython:S107š"YFunction "get_request_handler" has 12 parameters, which is greater than the 7 authorized.(ø€Ä¯
+lpython:S3776™"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÑñÓ{
+ipython:S107”"LMethod "__init__" has 26 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776“"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ú„Úüùÿÿÿÿ
+ipython:S107š"LMethod "__init__" has 17 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+npython:S107Ä"QMethod "add_api_route" has 26 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+jpython:S107"MMethod "api_route" has 24 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+opython:S107Ù"RMethod "include_router" has 11 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+mpython:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(‡µºõ
+dpython:S107¿"GMethod "get" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+dpython:S107ñ"GMethod "put" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+epython:S107£"HMethod "post" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+gpython:S107Õ"JMethod "delete" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+hpython:S107‡"KMethod "options" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+epython:S107¹"HMethod "head" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+fpython:S107ë"IMethod "patch" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+fpython:S107"IMethod "trace" has 23 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ

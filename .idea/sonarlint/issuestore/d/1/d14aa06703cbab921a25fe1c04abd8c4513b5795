@@ -1,0 +1,9 @@
+
+kpython:S1542z"NRename function "Field" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(”Õğıÿÿÿÿ
+mpython:S1542Ä"ORename function "Schema" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Õ´ÁÒüÿÿÿÿ
+mpython:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(¸ã© 
+bpython:S107{"KFunction "Field" has 18 parameters, which is greater than the 7 authorized.(ç—Ş‰
+mpython:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÛÌò“
+ipython:S107ù"LMethod "__init__" has 11 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+mpython:S1542³"TRename function "PrivateAttr" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(¤Ú§Ë
+rpython:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(‰õêıÿÿÿÿ

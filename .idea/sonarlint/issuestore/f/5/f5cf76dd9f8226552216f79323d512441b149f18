@@ -1,0 +1,18 @@
+
+hpython:S107 "LMethod "__init__" has 12 parameters, which is greater than the 7 authorized.( Ğàşüÿÿÿÿ
+rpython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ı¤Ì²úÿÿÿÿ
+ypython:S117š"aRename this local variable "EmbeddedDocument" to match the regular expression ^[_a-z][a-z0-9_]*$.(à‡ê
+vpython:S117È"YRename this local variable "Document" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÅ¾„úÿÿÿÿ
+ypython:S117É"aRename this local variable "EmbeddedDocument" to match the regular expression ^[_a-z][a-z0-9_]*$.(à‡ê
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢ŒŒ
+‡python:S117–"jRename this local variable "EmbeddedDocumentListField" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯ŞÙ†úÿÿÿÿ
+~python:S117•"fRename this local variable "GenericReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş£ûÿ
+|python:S117”"_Rename this local variable "ReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜ŞÍæûÿÿÿÿ
+mpython:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ò¸ªÏ
+upython:S117Ó"]Rename this local variable "BaseDocument" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÈÆ…
+vpython:S117æ"YRename this local variable "Document" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÅ¾„úÿÿÿÿ
+rpython:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(Ô•á‡ÿÿÿÿÿ
+vpython:S117ÿ"YRename this local variable "Document" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆÅ¾„úÿÿÿÿ
+ypython:S117€"aRename this local variable "EmbeddedDocument" to match the regular expression ^[_a-z][a-z0-9_]*$.(à‡ê
+~python:S117"fRename this local variable "GenericReferenceField" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş£ûÿ
+rpython:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ä´Éúÿÿÿÿ
