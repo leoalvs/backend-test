@@ -31,9 +31,10 @@ Rotas e requisições estão no arquivo `postman.json`.
 - Swagger: `http://0.0.0.0:8000/docs`
 - Redoc: `http://0.0.0.0:8000/redoc`
 
+
 ## Testes
 
-Para testar o projeto, execute o comando `python -m pytest`, a dependência pytest já vem instlada por padrão.
+Para testar o projeto, execute o comando `python -m pytest`, a dependência pytest já vem instalada por padrão.
 
 ![alt text](https://github.com/leoalvs/backend-test/blob/main/tests.png?raw=true)
 
