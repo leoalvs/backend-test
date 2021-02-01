@@ -57,3 +57,4 @@ Para testar o projeto, execute o comando `python -m pytest`, a dependência pyte
 
 - [FastApi](https://fastapi.tiangolo.com/) - Documentação oficial
 - [Benchmark](https://ahmed-nafies.medium.com/why-did-we-choose-fast-api-over-flask-and-django-for-our-restful-micro-services-77589534c036) - Comparação do FastApi com outros frameworks
+- [Awesome README.md](https://github.com/matiassingers/awesome-readme) - Awesome READMEs
