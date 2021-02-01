@@ -18,6 +18,8 @@ Instale as dependências com `pip install -r requirements`
 
 ## Inicializando o servidor
 
+Caso você não tenha o MongoDB instalado na sua máquina, suba um container rodando `docker-compose up -d`.
+
 Assim que as dependências estiverem instaladas na máquina, rode o comando `python -m api` para inicializar o servidor.
 
 Por padrão, o servidor vai rodar na rota `http://0.0.0.0:8000/`.
